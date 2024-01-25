@@ -14,7 +14,7 @@ setup(
     name='JaxSeq',
     version='1.0.0',
     description='Implementations of LLM training in JAX.',
-    url='https://github.com/Sea-Snell/JaxSeq2',
+    url='https://github.com/tlc4418/JAXSeq',
     author='Charlie Snell',
     packages=find_packages(),
     install_requires=read_requirements_file('requirements.txt'),
